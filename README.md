@@ -6,3 +6,4 @@ app will serve on port 5000 and mangodb on port 27017 so you can connect to it b
 
 write your logic in src folder, you can notice that app.py is the main script tht will serve your python app
 
+you can just write the name of dependencies that you will use in src/dependencies.txt file, docker will downlaod it for you
